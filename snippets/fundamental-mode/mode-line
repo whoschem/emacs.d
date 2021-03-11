@@ -1,0 +1,4 @@
+# name: Mode line
+# key: -*-
+# --
+# -*- mode:${1:conf}; -*-

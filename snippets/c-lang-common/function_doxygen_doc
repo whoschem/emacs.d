@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: Function Doxygen Doc
+# key: doxy
+# group: doxygen
+# --
+/**
+ * @brief      ${1:function description}
+ *
+ * @details    ${2:detailed description}
+ *
+ * @param      ${3:param}
+ *
+ * @return     ${4:return type}
+ */

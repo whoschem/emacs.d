@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: uml
+# key: uml
+# --
+#+begin_uml
+$1
+#+end_uml
